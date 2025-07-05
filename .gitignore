@@ -1,0 +1,7 @@
+# Ignore uploads and compiled files
+__pycache__/
+uploads/
+*.pyc
+*.log
+*.DS_Store
+.env
